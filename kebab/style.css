@@ -1,0 +1,18 @@
+.cercle {
+  border: solid white 2px;
+  height: 20px;
+  width: 20px;
+
+  margin-left: 5px;
+  border-radius: 50%;
+
+  margin-top: 10px;
+}
+
+.plein {
+  background-color: white;
+}
+
+.cardViande {
+  margin-top: 10px;
+}
